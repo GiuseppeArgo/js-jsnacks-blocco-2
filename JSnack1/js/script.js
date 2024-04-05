@@ -12,6 +12,11 @@ console.log(randomNumber);
 
 //Utilizzo una funzione per generare un array
 
-const array = randomArray
+let array = getRandomArray()
 
 console.log(array);
+
+//Utlizzo una funzione per stampare l'array
+
+printArray(array);
+console.log("Stampo un array");
