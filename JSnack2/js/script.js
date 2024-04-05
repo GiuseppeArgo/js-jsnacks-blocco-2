@@ -5,13 +5,13 @@
 
 //Chiedo all'utente due parole
 
-const firstword = prompt("dimmi una parola:");
-console.log(firstword);
+const userFirstword = prompt("dimmi una parola:");
+console.log(userFirstword);
 
 
-const secondword = prompt("dimmi un'altra parola");
-console.log(secondword);
+const userSecondword = prompt("dimmi un'altra parola");
+console.log(userSecondword);
 
 //Utilizzo una funzione per confrontare le due parole e stampare il risultato
 
-confrontaparole(firstword, secondword);
+confrontaparole(userFirstword, userSecondword);
