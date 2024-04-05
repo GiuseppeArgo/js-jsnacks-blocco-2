@@ -12,6 +12,6 @@ console.log(firstword);
 const secondword = prompt("dimmi un'altra parola");
 console.log(secondword);
 
-//Utilizzo una funzione per confrontare le due parole
+//Utilizzo una funzione per confrontare le due parole e stampare il risultato
 
 confrontaparole(firstword, secondword);
