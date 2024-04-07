@@ -2,14 +2,14 @@ Scrivere una funzione trovaIndice() che, dati un array e un elemento in input, r
 
 1. Input
 
-- [ ] Definisco un array generico
+- [x] Definisco un array generico
 
-- [ ] Creo una funzione che restituisce la posizione degli elementi di un array
+- [x] Creo una funzione che restituisce la posizione degli elementi di un array
 
 2. Logica 
 
-- [ ] Applico la funzione all'array generico
+- [x] Applico la funzione all'array generico
 
 3. Output
 
-- [ ] Stampo il risultato in console
+- [x] Stampo il risultato in console
